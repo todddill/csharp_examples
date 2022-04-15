@@ -1,0 +1,11 @@
+C:\Users\Todd Dill\source\repos\GuessingGame\bin\Debug\GuessingGame.exe.config
+C:\Users\Todd Dill\source\repos\GuessingGame\bin\Debug\GuessingGame.exe
+C:\Users\Todd Dill\source\repos\GuessingGame\bin\Debug\GuessingGame.pdb
+C:\Users\Todd Dill\source\repos\GuessingGame\obj\Debug\GuessingGame.csproj.AssemblyReference.cache
+C:\Users\Todd Dill\source\repos\GuessingGame\obj\Debug\GuessingGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Todd Dill\source\repos\GuessingGame\obj\Debug\GuessingGame.Form1.resources
+C:\Users\Todd Dill\source\repos\GuessingGame\obj\Debug\GuessingGame.Properties.Resources.resources
+C:\Users\Todd Dill\source\repos\GuessingGame\obj\Debug\GuessingGame.csproj.GenerateResource.cache
+C:\Users\Todd Dill\source\repos\GuessingGame\obj\Debug\GuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\Todd Dill\source\repos\GuessingGame\obj\Debug\GuessingGame.exe
+C:\Users\Todd Dill\source\repos\GuessingGame\obj\Debug\GuessingGame.pdb
